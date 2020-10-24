@@ -1,0 +1,6 @@
+n=[0,1,2,3,3,4]
+a=[]
+for i in n:
+    if i not in a:
+        a.append(i)
+print(a)
