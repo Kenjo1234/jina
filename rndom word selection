@@ -1,0 +1,4 @@
+import random
+members=['john','mary','nikhil','babu']
+leader=random.choice(members)
+print(leader)
